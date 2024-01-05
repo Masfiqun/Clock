@@ -166,8 +166,6 @@ class _HomepageState extends State<HomePage>{
           BottomNavigationBarItem(icon: Icon(Icons.alarm), label: "Alarm"),
           BottomNavigationBarItem(icon: Icon(Icons.timer), label: "StopWatch"),          
           BottomNavigationBarItem(icon: Icon(Icons.timelapse_outlined), label: "Timer"),
-          
-
         ]
       ),
     );
